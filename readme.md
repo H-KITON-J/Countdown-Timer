@@ -1,7 +1,5 @@
-Here is a detailed, stylish, and uniquely structured README file for your Countdown Timer project. It uses visual symbols, section dividers, badges, and a clear format, perfect for showcasing your work on GitHub.
 ________________________________________
 ⏳ Countdown Timer Web App
-<!-- Uploading "Screenshot 2025-06-28 155544.png"... -->
  
 🎯 A sleek, responsive countdown timer web application with notes, dark mode, sound/vibration alerts, and futuristic design aesthetics.
 ________________________________________
@@ -55,11 +53,14 @@ Or open with Live Server if you're using VS Code.
 ________________________________________
 📸 Screenshots
 Add screenshots of:
-•	Light & Dark modes
-•	Timer running
+•	ight & Dark modes
+
+L![Screenshot 2025-06-30 084244](https://github.com/user-attachments/assets/cfc6cf4b-4d6d-4c53-a523-2c88fa9e8de4)
+![Screenshot 2025-06-30 084255](https://github.com/user-attachments/assets/045b3735-b01f-4a9d-88d4-8921deaa5cab)
+
 •	Alert shown with message
-•	Notes section filled
-(You can use GitHub-flavored markdown to embed images)
+![Screenshot 2025-06-30 084329](https://github.com/user-attachments/assets/07d1c2c5-9a6c-466b-a1c4-f8a7519ad746)
+
 ________________________________________
 💡 Future Enhancements
 •	🎂 Birthday Reminder Mode
@@ -68,7 +69,7 @@ ________________________________________
 •	🔗 Shareable Countdown Links
 ________________________________________
 🛡️ License
-This project is open-source under the MIT License.
+This project is open-source under the HEI2O License.
 ________________________________________
 🙏 Acknowledgments
 •	Mixkit for alert sounds
