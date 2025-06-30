@@ -77,8 +77,6 @@ ________________________________________
 •	Google Fonts for typography
 ________________________________________
 🔗 Connect with Me
-Created with ❤️ by Tuo Kumar
+Created with ❤️ by H-KITON-J
 GitHub ・ LinkedIn ・ Portfolio
 ________________________________________
-Would you like me to turn this into a README.md file and also generate preview screenshots automatically for GitHub?
-
